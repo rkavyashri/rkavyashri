@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome to my Github profile
 
-###I'm Kavyashri, Software Engineer with 7+ yrs in backend development.
+I'm Kavyashri, Software Engineer with 7+ yrs in backend development.
 This place is a where I store some interesting projects that I create.
 
 
