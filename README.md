@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, Welcome to my Github profile
+
+###I'm Kavyashri, Software Engineer with 7+ yrs in backend development.
+This place is a where I store some interesting projects that I create.
+
 
 <!--
 **rkavyashri/rkavyashri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
