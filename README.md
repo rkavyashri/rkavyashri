@@ -1,7 +1,15 @@
 ## Hi there 👋, Welcome to my Github profile
 
-I'm Kavyashri, Software Engineer with 7+ yrs in backend development.
-This place is a where I store some interesting projects that I create.
+Who am I? 
+  I'm Kavyashri, Software Engineer with 7+ yrs in backend development.
+What do I do?
+  checkout my LinkedIn for latest updates.
+Where do I live?
+  Singapore.
+Why check out my profile?
+  Passionate about tech, especially backend architecture. I recreate some interesting projects that I come across. 
+Need help?
+  Reach out to me in LinkedIn, if you need help in DSA, System Design, or Behavioural Interview preparation and or also for relocating to other countries from India.
 
 
 <!--
